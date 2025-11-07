@@ -5,7 +5,7 @@ export default function Settings() {
     return (
         <div className="min-h-screen bg-gray-50">
             <Navbar />
-            <div className="container mx-auto mt-10 p-6 bg-white shadow rounded">
+            <div className="container text-gray-800 mx-auto mt-10 p-6 bg-white shadow rounded">
                 <h1 className="text-2xl font-bold mb-4">Settings</h1>
                 <p>Here you can update your account settings.</p>
             </div>
